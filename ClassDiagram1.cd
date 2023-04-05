@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="To_Do_App_Final_Project.To_Do_Form">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQUACAAgACAgAFEAECiAggACKAgAAAgAAoAAgAIAIEA=</HashCode>
+      <FileName>To_Do_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="To_Do_App_Final_Project.Task_Info_Form">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAYAAAACAAEBAAABiAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Task_Info_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="To_Do_App_Final_Project.Task_Detail_Form">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAACAAAhAAAACAAABCAAAAAAAAEAAAAAAACAA=</HashCode>
+      <FileName>Task_Detail_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="To_Do_App_Final_Project.Task">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,76 @@
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.GenerateResource.cache
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfo.cs
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\bin\Debug\net6.0-windows\To_Do_App_Final_Project.exe
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\bin\Debug\net6.0-windows\To_Do_App_Final_Project.deps.json
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\bin\Debug\net6.0-windows\To_Do_App_Final_Project.runtimeconfig.json
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\bin\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\bin\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\refint\To_Do_App_Final_Project.dll
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.genruntimeconfig.cache
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\ref\To_Do_App_Final_Project.dll
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Detail_Form.resources
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Info_Form.resources
+C:\Users\ASUS TUF F17\source\repos\To_Do_App_Final_Project\obj\Debug\net6.0-windows\To_Do_App_Final_Project.To_Do_Form.resources
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.exe
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.deps.json
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.runtimeconfig.json
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Detail_Form.resources
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Info_Form.resources
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.To_Do_Form.resources
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfo.cs
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\refint\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.genruntimeconfig.cache
+C:\Users\Admin\Downloads\To_Do_App_Final_Project-main\obj\Debug\net6.0-windows\ref\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Detail_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Info_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.To_Do_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfo.cs
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\refint\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App-Final-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.exe
+C:\Users\Admin\Downloads\To_Do_App-Final-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.deps.json
+C:\Users\Admin\Downloads\To_Do_App-Final-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.runtimeconfig.json
+C:\Users\Admin\Downloads\To_Do_App-Final-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.genruntimeconfig.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main\obj\Debug\net6.0-windows\ref\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Detail_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.Task_Info_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.To_Do_Form.resources
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.AssemblyInfo.cs
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\refint\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.exe
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.deps.json
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.runtimeconfig.json
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.dll
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\bin\Debug\net6.0-windows\To_Do_App_Final_Project.pdb
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\To_Do_App_Final_Project.genruntimeconfig.cache
+C:\Users\Admin\Downloads\To_Do_App-Final-main-main\obj\Debug\net6.0-windows\ref\To_Do_App_Final_Project.dll
